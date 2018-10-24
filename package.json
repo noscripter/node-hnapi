@@ -9,7 +9,7 @@
     "connect-ratelimit": "0.0.7",
     "cors": "~2.7.1",
     "domino": "~1.0.20",
-    "express": "~4.13.3",
+    "express": "~4.15.5",
     "extend": "~3.0.0",
     "firebase": "~2.3.2",
     "json-stringify-safe": "~5.0.1",
