@@ -16,7 +16,7 @@
     "memcached": "~0.2.8",
     "memory-cache": "~0.1.4",
     "moment": "~2.10.6",
-    "morgan": "~1.6.1",
+    "morgan": "~1.9.1",
     "nconf": "~0.8.2",
     "on-headers": "~1.0.1",
     "promise": "~7.0.4",
